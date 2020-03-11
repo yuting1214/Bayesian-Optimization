@@ -13,3 +13,5 @@ Bayesian Optimization for hyperparameter selection
  - Hyper-Parameter Optimization
   * Evaluation:
     * Cross-validation
+    
+  * Multi-Objective Optimization
