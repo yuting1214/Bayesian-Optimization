@@ -15,3 +15,5 @@ Bayesian Optimization for hyperparameter selection
     * Cross-validation
     
   * Multi-Objective Optimization
+
+- Design of experiments
