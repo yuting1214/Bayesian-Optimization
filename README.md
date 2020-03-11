@@ -17,3 +17,10 @@ Bayesian Optimization for hyperparameter selection
   * Multi-Objective Optimization
 
 - Design of experiments
+
+ # Comparison
+  
+  - [Bayesian Optimization](https://www.youtube.com/watch?v=C5nqEHpdyoE)
+  
+  - [Metaheuristic optimization](https://en.wikipedia.org/wiki/Metaheuristic)
+ 
