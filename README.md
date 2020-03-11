@@ -9,17 +9,17 @@ Bayesian Optimization for hyperparameter selection
  
  - Algorithm
  
+ - Multi-Objective Optimization
+ 
  - Hyper-Parameter Optimization
   * Evaluation:
     * Cross-validation
     
-  * Multi-Objective Optimization
-
-- Design of experiments
-
  # Comparison
   
   - [Bayesian Optimization](https://www.youtube.com/watch?v=C5nqEHpdyoE)
   
   - [Metaheuristic optimization](https://en.wikipedia.org/wiki/Metaheuristic)
+  
+  - [Design of experiments](https://en.wikipedia.org/wiki/Design_of_experiments)
  
