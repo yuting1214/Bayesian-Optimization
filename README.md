@@ -5,6 +5,8 @@ Bayesian Optimization for hyperparameter selection
  
  - [Introduction to Bayesian data analysis](https://www.youtube.com/watch?v=3OJEae7Qb_o&list=PLuFpbnkMGXo1U2Ia2fPrBaWuPA-3kv3QT&index=1)
  
+ - [Introduction to Gaussian processes](https://www.youtube.com/watch?v=4vGiHC35j9s)
+ 
  # Optimization
  
  - Algorithm
